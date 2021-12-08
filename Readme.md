@@ -1,6 +1,6 @@
 # __Objective__ 
 
-## The main goal of this project is to scrapy a dynamical website for extracting information about the car, dealer details and save it as CSV file
+## The main goal of this project is to scrapy a dynamic website for extracting information about the car, dealer details and save it as CSV file
 
 # __Explanation__
 
